@@ -14,3 +14,4 @@ Steps of this project:
 2. Using that token to get the list of popular tweet or the tweets of a user using screen name and parsing that json response with the help of Gson and http://jsonschema2pojo.org/.
 
 Feel free to contribute anything
+Line added from 2nd user
