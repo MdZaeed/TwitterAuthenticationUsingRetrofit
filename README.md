@@ -1,5 +1,9 @@
 # TwitterAuthenticationUsingRetrofit
-A simple android application showing some popular tweets using the twitter rest api and oauth to authenticate in combination with retrofit and Gson. (Useful for complete newcomer in the retrofit and api domain of android)
+A simple android application showing some popular tweets using the twitter rest api and oauth to authenticate in combination with retrofit and Gson.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!
+Useful for complete newcomer in the retrofit and api domain of android
+!!!!!!!!!!!!!!!!!!!!!!!!!
 
 Application name= FusionTwitterZed
 
